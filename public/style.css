@@ -15,7 +15,7 @@ body {
 
 h1 {
   font-weight: bold;
-  color: pink;
+  color: cyan;
 }
 
 .bold {
@@ -67,11 +67,6 @@ li {
   margin-bottom: 5px;
 }
 
-footer {
-  margin-top: 50px;
-  padding-top: 25px;
-  border-top: 1px solid lightgrey;
-}
 
 footer > a {
   color: #BBBBBB;

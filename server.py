@@ -20,7 +20,7 @@ app = Flask(__name__, static_folder='public', template_folder='views')
 app.secret = os.environ.get('SECRET')
 
 # Dream database. Store dreams in memory for now. 
-DREAMS = ['Usare Python.']
+DREAMS = ['Capire come usare python.']
 
 
 @app.after_request
