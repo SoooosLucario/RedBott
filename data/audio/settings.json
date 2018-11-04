@@ -1,0 +1,30 @@
+{
+    "AVCONV" : false,
+    "MAX_CACHE" : 0,
+    "MAX_LENGTH" : 3700,
+    "SERVERS" : {
+        "409346192128868353" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : true,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 15,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "466743896865767453" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 30,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        }
+    },
+    "SOUNDCLOUD_CLIENT_ID" : null,
+    "TITLE_STATUS" : true,
+    "VOLUME" : 30,
+    "VOTE_ENABLED" : true,
+    "VOTE_THRESHOLD" : 50
+}

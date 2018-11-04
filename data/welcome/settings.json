@@ -1,0 +1,16 @@
+{
+    "409346192128868353" : {
+        "BOTS_MSG" : "C'\u00e8 un bot non \u00e8 un utente <@!159985870458322944>!",
+        "BOTS_ROLE" : "LISTA_BOT",
+        "CHANNEL" : "474655099050786837",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!",
+            "Benvenuto {0.name} nel server {1.name}!",
+            "Ciao {0.name} e benvenuto nel server {1.name}!",
+            "Perch\u00e8 non prendere {0.name} e metterlo nel server {1.name}? Comunque benvenuto!",
+            "Vedo che ti piace il gaming {0.name} ma d'altronde sei venuto nel posto giusto Benvenuto {0.name}!"
+        ],
+        "ON" : true,
+        "WHISPER" : true
+    }
+}
